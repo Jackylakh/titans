@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795077807096",
+    "firebase_url": "https://scrapwale-436d1.firebaseio.com",
+    "project_id": "scrapwale-436d1",
+    "storage_bucket": "scrapwale-436d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795077807096:android:7fec29ad20a20b27fce40d",
+        "android_client_info": {
+          "package_name": "com.example.scrapwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795077807096-96f11ie1vo9q9b99ofp0oab0f80knlei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqj7UTgGu2xYlT13m53Q6JzpOkPgqUXb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795077807096-96f11ie1vo9q9b99ofp0oab0f80knlei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
